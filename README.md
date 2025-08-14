@@ -22,8 +22,8 @@ It uses:
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/QnA_from_PDF_RAG.git
-cd QnA_from_PDF_RAG
+git clone https://github.com/its-me-aniket/talk_with_PDFs_using_RAG.git
+cd talk_with_PDFs_using_RAG
 python3 -m venv venv
 source venv/bin/activate  # macOS/Linux
 venv\Scripts\activate     # Windows
